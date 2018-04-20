@@ -1,0 +1,10 @@
+production:
+ host: localhsot
+ username: adsf
+ passwod: asdf
+
+development:
+ host: localhsot
+ username: adsf
+ passwod: asdf
+ 
