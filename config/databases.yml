@@ -1,7 +1,7 @@
 production:
  host: localhsot
  username: adsf
- passwod: asdf
+ passwod: alamiwerda
 
 development:
  host: localhsot
